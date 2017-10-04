@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 tfhnfajfamfjsaf
 ahskdfjafkds
 faskfjaskfjka
 his is f9
+=======
+>>>>>>> branch1
