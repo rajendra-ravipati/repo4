@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-this is updated in master 
-=======
->>>>>>> branch1
